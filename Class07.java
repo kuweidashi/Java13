@@ -1,7 +1,7 @@
 package Java13;
 
 public class Class07 {
-	public static void test(int a,int b) throws ArithmeticException{//第七題
+	public static void test(int a,int b) throws ArithmeticException{
 	    int num = a;
 		int den = b;
 		int ans = num / den;
